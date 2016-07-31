@@ -1,0 +1,60 @@
+[ 2016-07-26T09:37:52+08:00 ] 127.0.0.1 /index.php/admin/Goods/showlist
+ERR: 系统不支持: TemplateSmarty
+
+[ 2016-07-26T09:39:08+08:00 ] 127.0.0.1 /index.php/admin
+ERR: 系统不支持: TemplateSmarty
+
+[ 2016-07-26T09:39:19+08:00 ] 127.0.0.1 /index.php/User/login
+ERR: 系统不支持: TemplateSmarty
+
+[ 2016-07-26T09:39:31+08:00 ] 127.0.0.1 /index.php/User/login
+ERR: 系统不支持: TemplateSmarty
+
+[ 2016-07-26T09:39:32+08:00 ] 127.0.0.1 /index.php/User/login
+ERR: 系统不支持: TemplateSmarty
+
+[ 2016-07-26T09:39:32+08:00 ] 127.0.0.1 /index.php/User/login
+ERR: 系统不支持: TemplateSmarty
+
+[ 2016-07-26T09:40:04+08:00 ] 127.0.0.1 /
+ERR: 系统不支持: TemplateSmarty
+
+[ 2016-07-26T09:56:21+08:00 ] 127.0.0.1 /index.php/admin/Goods/showlist
+ERR: Action:show_bug您所请求的方法不存在！
+
+[ 2016-07-26T11:03:42+08:00 ] 127.0.0.1 /index.php/admin/Goods/showlist
+ERR: Syntax Error in template "../Tpl/admin\Goods\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2016-07-26T11:05:02+08:00 ] 127.0.0.1 /index.php/admin/Goods/showlist
+ERR: Syntax Error in template "../Tpl/admin\Goods\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2016-07-26T11:05:06+08:00 ] 127.0.0.1 /index.php/admin/Goods/showlist
+ERR: Syntax Error in template "../Tpl/admin\Goods\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2016-07-26T11:11:44+08:00 ] 127.0.0.1 /index.php/admin/Goods/showlist
+ERR: Syntax Error in template "../Tpl/admin\Goods\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF}"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2016-07-26T11:12:10+08:00 ] 127.0.0.1 /index.php/admin/Goods/showlist
+ERR: Syntax Error in template "../Tpl/admin\Goods\showlist.html"  on line 12 ".tr_color{background-color: #9F88FF"  - Unexpected ": ", expected one of: "}" , " "
+
+[ 2016-07-26T13:40:53+08:00 ] 127.0.0.1 /
+ERR: Syntax Error in template "../Tpl/home\Index\index.html"  on line 405 ".boxCenterList form{display:inline;}"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-07-26T15:14:43+08:00 ] 127.0.0.1 /index.php/admin/Goods/add
+ERR: Unable to load template file 'che\htdocs\tpstart\ThinkPHP/Tpl/dispatch_jump.tpl'
+
+[ 2016-07-26T15:16:23+08:00 ] 127.0.0.1 /index.php/admin/Goods/add
+ERR: Unable to load template file 'che\htdocs\tpstart\ThinkPHP/Tpl/dispatch_jump.tpl'
+
+[ 2016-07-26T16:14:43+08:00 ] 127.0.0.1 /index.php/admin/Goods/upd/13
+ERR: 参数错误或者未定义:goods_id
+
+[ 2016-07-26T16:45:02+08:00 ] 127.0.0.1 /index.php/admin/Goods/upd/goods_id/19
+ERR: Syntax Error in template "../Tpl/admin\dispatch_jump.tpl"  on line 21 "&lt;p class=&quot;success&quot;&gt;{message}&lt;/p&gt;" unknown tag "message"
+
+[ 2016-07-26T16:45:46+08:00 ] 127.0.0.1 /index.php/admin/Goods/upd/goods_id/19
+ERR: Syntax Error in template "../Tpl/admin\dispatch_jump.tpl"  on line 28 "页面自动 &lt;a id=&quot;href&quot; href=&quot;{jumpUrl}&quot;&gt;跳转&lt;/a&gt; 等待时间： &lt;b id=&quot;wait&quot;&gt;{$waitSecond)}&lt;/b&gt;" unknown tag "jumpUrl"
+
+[ 2016-07-26T16:46:17+08:00 ] 127.0.0.1 /index.php/admin/Goods/upd/goods_id/13
+ERR: Syntax Error in template "../Tpl/admin\dispatch_jump.tpl"  on line 28 "页面自动 &lt;a id=&quot;href&quot; href=&quot;{$jumpUrl}&quot;&gt;跳转&lt;/a&gt; 等待时间： &lt;b id=&quot;wait&quot;&gt;{$waitSecond)}&lt;/b&gt;"  - Unexpected ")", expected one of: "}" , " "
+
